@@ -1,0 +1,10 @@
+a:link, a:visited {
+    background-color: steelblue;
+    color: tomato;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
